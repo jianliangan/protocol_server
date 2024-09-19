@@ -1,0 +1,2 @@
+介绍：服务端，私有rtp协议支持流媒体和文本命令，基于tcp和udp。
+编译：mkdir ./build && cd ./build && cmake ../ && make

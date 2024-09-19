@@ -1,0 +1,17 @@
+tags
+*.o
+huage_rtp
+*.Po
+.deps
+*.in
+mainajl
+autom4te.cache
+huage_rt
+a.out
+test_client
+*.swp
+*.access
+*.error
+dist
+*.log
+build
